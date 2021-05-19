@@ -18,6 +18,7 @@
 
 .seccion-principal {
   background-color: var(--color-clarito);
+  min-height: calc(100vh - 200px);
 }
 
 .sidebar {
@@ -30,5 +31,5 @@
 }
 
 .pie p {
-  margin: auto;
+  margin: 0;
 }
