@@ -3,3 +3,28 @@
   --color-notanoscuro: #ADACB5;
   --color-clarito: #D8D5DB;
 }
+
+.cabecera {
+  background-color: var(--color-oscuro);
+}
+
+.cabecera, .pie {
+  height: 100px;
+}
+
+.cabecera .titulo-principal {
+  color: #fff;
+}
+
+.seccion-principal {
+  background-color: var(--color-clarito);
+}
+
+.sidebar {
+  background-color: var(--color-notanoscuro);
+}
+
+.pie {
+  background-color: var(--color-oscuro);
+  color: #fff;
+}
