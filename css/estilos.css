@@ -28,3 +28,7 @@
   background-color: var(--color-oscuro);
   color: #fff;
 }
+
+.pie p {
+  margin: auto;
+}
